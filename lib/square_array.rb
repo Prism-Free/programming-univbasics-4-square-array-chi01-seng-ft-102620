@@ -4,5 +4,7 @@ def square_array(array)
   
   while array[counter] {
    new_array<<(array[counter] * (array[counter])
+   counter += 1
   }
+  new_array
 end
